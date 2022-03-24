@@ -17,4 +17,9 @@ Atualmente em constante aprendizado em JS(ReactJS, VueJS, React Native).
 
 **Estatísticas**
 
-<div><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellivelton-narciso&layout=compact&theme=dracula"/><img height="130em" src="https://github-readme-stats.vercel.app/api?username=ellivelton-narciso&show_icons=true&theme=dracula"/></div>
+<div><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnsz&layout=compact&theme=dracula"/><img height="130em" src="https://github-readme-stats.vercel.app/api?username=elnsz&show_icons=true&theme=dracula"/></div>
+
+**Diversos**
+>Portfólio: https://elnsz.github.io/Curriculum-Moderno/
+<br><br>
+Email: ellivelton.souza@gmail.com
