@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Ellivelton Narciso <img src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif" width="30px">
-> 🔭 Atualmente trabalho com Front End<br>
+> 🔭 Atualmente trabalho como FullStack<br>
 ><br>
-> 🌱 Estou estudando ReactJS e VueJS<br>
+> 🌱 Estou estudando VueJS, PHP e Golang<br>
 ><br>
 > 📫 Pode entrar em contato comigo pelo e-mail: ellivelton.souza@gmail.com<br>
 ><br>
@@ -13,7 +13,7 @@ Tenho experiência com painéis, WHMCS, cPanel, Pterodactyl e outros.
 <br><br>
  Também sou bom em gerenciar VPS Linux, Cloud Servers, Administração de VMs em servidores dedicados rodando Proxmox, dashboard AWS, Banco de Dados, Docker, etc.
 <br><br>
-Atualmente em constante aprendizado em JS(ReactJS, VueJS, React Native).
+Atualmente atuo na empresa VSPLUS Sistemas e Informações como Programador Back End.
 
 **Estatísticas**
 
